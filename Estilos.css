@@ -1,0 +1,17 @@
+#borda{
+    border-bottom: 2px;
+    width: 100px;
+}
+#texto{
+    text-align: center;
+}
+#bordas{
+    border-radius: 20px;
+    justify-content: center
+}
+.center {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
